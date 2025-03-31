@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-//subscription program with switches instead of switch statements
+//subscription program with switches instead of if statements
 int main(){
     //seeding random number generator
     srand(static_cast<unsigned int>(time(0)));
